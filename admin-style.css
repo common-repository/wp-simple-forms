@@ -1,0 +1,6 @@
+.template-wrapper{border:1px dashed #999;padding:1em;margin:1em 0;}
+.form-elements-selected-wrapper{border:1px solid #000;}
+.question-wrapper{border-top:1px solid #ccc;margin:1em 0;}
+.question-wrapper:hover{background:#ECECEC;}
+.question-edit-box{background:#FFF0A5;}
+.ui-state-highlight{min-height:50px;}

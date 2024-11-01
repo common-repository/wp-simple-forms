@@ -1,0 +1,43 @@
+.cd-form-entry{
+	margin-bottom:2em;
+}
+.cd-form-entry input,
+.cd-form-entry select{
+	border:1px solid #efefef;
+	border-top:1px solid #ccc;
+	border-radius:3px;
+	padding:4px 2px;
+}
+.cd-form-entry option{
+	padding:4px 2px 0 2px;
+}
+.cd-form-entry input{
+	margin:0;
+	padding:2px;
+	margin-bottom:0;
+}
+.cd-form-entry label{
+	padding:0;
+	margin:0;
+	color:#464646;
+}
+.cd-form-entry li, .cd-form-entry ul{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+.q-title{
+	font-weight:bold;
+	display:block;
+}
+label.q-help{
+	color:#8e8e8e;
+	display:block;
+}
+.cd-required-asterisk{
+	color:red;
+}
+.cd-error{
+	color:red;
+}
+.wpsf-submit{margin-bottom:24px;}
